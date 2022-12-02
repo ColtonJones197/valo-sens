@@ -1,0 +1,1 @@
+This project contains the scripts used to scrape information from the prosense database into my own database.
